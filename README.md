@@ -3,5 +3,8 @@ Final Project for CSC212 Data Structures and Algorithms Course at CCNY (Spring 2
 It is recommended to run the code in a linux OS
 
 Demo:
-![Klotski Solver Demo](https://streamable.com/ygc0n7)
+
+https://user-images.githubusercontent.com/97417536/198847232-f329b3aa-97c2-4e4c-b48e-21a489924ce2.mov
+
+
 
