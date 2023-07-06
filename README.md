@@ -1,5 +1,5 @@
 # klotski-solver
-Final Project for CSC212 Data Structures and Algorithms Course at CCNY (Spring 2022).
+Final Project for CSC212 Data Structures and Algorithms Course. 
 
 It is recommended to use a linux OS for this project.
 
