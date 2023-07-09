@@ -1,7 +1,7 @@
 # klotski-solver
 Final Project for my Data Structures and Algorithms Course. 
 
-It is recommended to use a linux OS for this project.
+It is recommended to use a linux OS for this project to run the ``solver.cpp`` file.
 
 Demo:
 
